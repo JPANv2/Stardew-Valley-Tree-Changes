@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace TreeChanges
+namespace TreeChanges.TreeChanges
 {
     /*Copied over from JsonAssets.Api*/
     public interface JsonAssetsAPI
